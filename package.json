@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "description": "A Simple Discord Bot that's able to generate a custom profile picture for you!",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "author": "NoVa Gh0ul",
+    "dependencies": {
+        "canvas": "^2.11.2",
+        "discord.js": "^14.14.1",
+        "dotenv": "^16.4.5",
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7"
+    }
+}

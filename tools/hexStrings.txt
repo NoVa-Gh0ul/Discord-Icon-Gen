@@ -1,0 +1,30 @@
+    #FF0000 - Red
+    #00FF00 - Lime
+    #0000FF - Blue
+    #FFFF00 - Yellow
+    #FF00FF - Magenta
+    #00FFFF - Cyan
+    #800000 - Maroon
+    #008000 - Green
+    #000080 - Navy
+    #808000 - Olive
+    #800080 - Purple
+    #008080 - Teal
+    #FFA500 - Orange
+    #A52A2A - Brown
+    #FFC0CB - Pink
+    #800000 - Crimson
+    #4682B4 - Steel Blue
+    #2E8B57 - Sea Green
+    #FFD700 - Gold
+    #7B68EE - Medium Slate Blue
+    #6A5ACD - Slate Blue
+    #8A2BE2 - Blue Violet
+    #A0522D - Sienna
+    #DC143C - Crimson Red
+    #FF4500 - Orange Red
+    #00CED1 - Dark Turquoise
+    #20B2AA - Light Sea Green
+    #48D1CC - Medium Turquoise
+    #87CEEB - Sky Blue
+    #40E0D0 - Turquoise Blue
